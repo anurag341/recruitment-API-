@@ -1,17 +1,9 @@
-This is an interactive web application designed to help job seekers and recruiters efficiently manage their contact information and track their recruitment process. Built with modern web technologies, the application provides a clean, user-friendly interface to securely store and organize key details for each contact.
+It's a type of software or application designed specifically for recruiters and job seekers to manage their interactions, track applications, and organize information related to the hiring process.
 
-Key Features
-Secure Contact Management: Add, edit, and delete recruiter contact information, including name, company, mobile number, notice period, and salary expectations.
+The Recruiter CRM project described in the Canvas is a web application that helps a user:
 
-Persistent Data Storage: All data is securely stored in a private Firestore database, ensuring your information is saved across sessions and devices.
+Organize contacts: Store names, companies, and phone numbers of recruiters.
 
-Anonymous Authentication: The application uses anonymous sign-in to automatically create a unique, private data space for each user without requiring a password.
+Track communication: Keep notes on details like notice periods, salary expectations, and other relevant conversation points.
 
-Responsive UI: The interface is built with Tailwind CSS for a seamless experience on both desktop and mobile devices.
-
-Technologies Used
-Frontend: React
-
-Styling: Tailwind CSS
-
-Backend & Database: Firebase (Authentication and Firestore)
+Manage the job search: Have a centralized place to manage all the data related to their recruitment process.
